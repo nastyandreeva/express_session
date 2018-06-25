@@ -36,3 +36,4 @@
  7. Результаты выполненной работы:
 
 ![alt text](https://github.com/nastyandreeva/express_session/blob/master/шаблон%20(1).jpg) 
+![alt text](https://github.com/nastyandreeva/express_session/blob/master/шаблон%20(2).jpg)
