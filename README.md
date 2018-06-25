@@ -28,13 +28,11 @@
   }
 };
 
-6.  Добавляем маршрут /logout для прекращения сессии:
+ 6. Добавляем маршрут /logout для прекращения сессии:
  .get('/logout', r => {
     r.session.auth = 'neok';
     r.res.redirect('/login');
-  })
-  
-  
-7. Результаты выполненной работы:
+  }) 
+ 7. Результаты выполненной работы:
 ![alt text](https://github.com/nastyandreeva/express_session/blob/master/шаблон%20(2).jpg)
 ![alt text](https://github.com/nastyandreeva/express_session/blob/master/шаблон%20(1).jpg) 
